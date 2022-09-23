@@ -1,0 +1,36 @@
+# Misc
+.DS_Store
+
+# Contracts
+contracts/cache
+contracts/out
+
+# Generator
+generator/node_modules
+generator/dist
+generator/*.log
+generator/merkle.json
+
+# Frontend
+.env.local
+node_modules
+out
+.next
+.vercel
+
+node_modules
+*.log
+
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.sample
+!.env.example
+.vercel
+.output
+ignore
+
+.firebase
+package-lock.json
